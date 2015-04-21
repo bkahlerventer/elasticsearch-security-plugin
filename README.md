@@ -1,5 +1,5 @@
 # News/Status
-This plugin is no longer maintained, all effort goes into a new project called "Elastic Defender" https://github.com/salyh/elastic-defender
+This plugin is no longer maintained, all effort goes into a new inaccessible project called "Elastic Defender" https://github.com/salyh/elastic-defender
 
 [![Defender Logo](http://saly.de/elastic-defender.jpg)](http://saly.de/elastic-defender.jpg)
 
